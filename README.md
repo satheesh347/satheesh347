@@ -23,7 +23,7 @@
 ```yaml
 name      : Rallapalli Satheesh
 role      : Software Developer / Engineer
-location  : Hyderabad, India
+location  : Cuddapah, Andhra pradesg, India
 bio       : "Trying to build myself :)"
 interests :
   - Full Stack Web Development
