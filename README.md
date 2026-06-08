@@ -18,7 +18,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 ```yaml
 name      : Rallapalli Satheesh
@@ -38,9 +38,9 @@ currently :
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -50,7 +50,7 @@ currently :
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### ⚙️ Frameworks & Backend
+###  Frameworks & Backend
 <p>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -59,7 +59,7 @@ currently :
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### 🤖 Machine Learning & Data Science
+###  Machine Learning & Data Science
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -70,14 +70,14 @@ currently :
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🧰 Developer Tools & Platforms
+###  Developer Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -90,7 +90,7 @@ currently :
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satheesh347&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
@@ -104,7 +104,7 @@ currently :
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=satheesh347&theme=tokyonight&no-frame=true&column=7&margin-w=10"/>
@@ -112,7 +112,7 @@ currently :
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satheesh347&theme=tokyo-night&hide_border=true"/>
@@ -120,16 +120,16 @@ currently :
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
-- 🧠 Advanced Machine Learning & Deep Learning
-- ☁️ Cloud Deployment (AWS / GCP)
-- 🏗️ System Design & Architecture
-- 🔐 Web Security Best Practices
+-  Advanced Machine Learning & Deep Learning
+-  Cloud Deployment (AWS / GCP)
+-  System Design & Architecture
+-  Web Security Best Practices
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rallapalli-satheesh-041a09308">
