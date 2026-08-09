@@ -21,17 +21,13 @@
 ##  About Me
 
 ```yaml
-name      : Rallapalli Satheesh
 role      : Software Developer / Engineer
-location  : Cuddapah, Andhra Pradesh, India
 bio       : "Trying to build myself :)"
 interests :
   - Full Stack Web Development
-  - Machine Learning & Data Science
   - Open Source Contribution
-  - Building real-world impactful projects
+  - Building realworld impactful projects
 currently :
-  - Learning advanced ML & system design
   - Exploring cloud deployment & DevOps practices
   - Contributing to open source
 ```
